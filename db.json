@@ -6,6 +6,30 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "vini@mail.com",
+      "password": "$2a$10$ufU6xojtVMugTxiIB055CeLDy7gTNcGJpEFfIqzUJGPi44KXeChV.",
+      "nome": "Vinicius",
+      "id": 2
+    }
+  ],
+  "pessoa": [
+    {
+      "Modulo": "M3",
+      "userId": 2,
+      "id": 1
+    }
+  ],
+  "consulta": [
+    {
+      "consulta": "consulta",
+      "id": 1
+    },
+    {
+      "consulta": "consulta2",
+      "userId": 1,
+      "id": 2
     }
   ]
 }
