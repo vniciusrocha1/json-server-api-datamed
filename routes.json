@@ -1,3 +1,7 @@
 {
-  "users": 600
+    "users": 600,
+    "dados_usuarios": "dados_usuarios",
+    "vinculo_medico_paciente": 640,
+    "consultas": 640,
+    "diagnosticos": 640
 }
